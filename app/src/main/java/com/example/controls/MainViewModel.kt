@@ -1,4 +1,4 @@
-package com.example.practica6
+package com.example.controls
 
 import androidx.lifecycle.SavedStateHandle
 import androidx.lifecycle.ViewModel

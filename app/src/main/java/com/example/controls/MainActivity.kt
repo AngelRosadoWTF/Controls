@@ -1,4 +1,4 @@
-package com.example.practica6
+package com.example.controls
 
 import android.os.Bundle
 import android.widget.Button

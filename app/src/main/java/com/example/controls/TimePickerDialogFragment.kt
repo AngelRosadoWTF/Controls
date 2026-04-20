@@ -1,4 +1,4 @@
-package com.example.practica6
+package com.example.controls
 
 import android.app.Dialog
 import android.app.TimePickerDialog
